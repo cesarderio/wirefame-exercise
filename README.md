@@ -1,2 +1,2 @@
-# wirefame-exercise
+# wireframe-exercise
 Flexbox layout project
